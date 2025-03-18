@@ -1,4 +1,4 @@
-The AWS Label Detector is a  interactive mobile application mainly designed to help swap meet shoppers and vendors identify items quickly using the AI-powered image recognition (AWS Rekognition)
+The AWS Label Detector is a  interactive mobile application mainly designed to identify items quickly using the AI-powered image recognition (AWS Rekognition)
 
 **Key Features**
 - instant item recognition: take or upload a photo of any item to get AI-powered identification
